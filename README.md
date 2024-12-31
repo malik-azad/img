@@ -44,9 +44,10 @@ git clone https://github.com/malik-azad/img.git
 
 [View Live Demo](https://malik-azad.github.io/img/)
 
+<hr> <br>
 
 contact : malikazad.web@gmail.com 
 
-<br><br> <hr>
+<br>
 [LinkedIn](https://www.linkedin.com/in/malikazad)
 
