@@ -1,5 +1,4 @@
 
-
 # Image Search App
 
 A simple web-based Image Search Application built using HTML, CSS, and JavaScript. This app allows users to search for images by entering keywords and displays results dynamically in a visually appealing grid layout.
@@ -43,6 +42,9 @@ git clone https://github.com/malik-azad/img.git
 
 # Live Demo
 
-View Live Demo
+[View Live Demo](https://malik-azad.github.io/img/)
 
+
+contact : malikazad.web@gmail.com 
+[LinkedIn](https://www.linkedin.com/in/malikazad)
 
