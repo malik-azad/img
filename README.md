@@ -46,5 +46,7 @@ git clone https://github.com/malik-azad/img.git
 
 
 contact : malikazad.web@gmail.com 
+
+<br><br> <hr>
 [LinkedIn](https://www.linkedin.com/in/malikazad)
 
