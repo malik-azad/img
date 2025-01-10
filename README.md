@@ -46,8 +46,10 @@ git clone https://github.com/malik-azad/img.git
 
 <hr> <br>
 
-contact : malikazad.web@gmail.com 
+ 
+7006436966 iqbal sb 
 
+contact : malikazad.web@gmail.com
 <br>
 [LinkedIn](https://www.linkedin.com/in/malikazad)
 
