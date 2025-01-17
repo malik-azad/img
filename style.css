@@ -133,6 +133,13 @@ form {
 
  /* Footer Styles */
 footer {
+   font-family: sans-serif;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   min-height: 100vh;
+   margin: 10;
+  
    margin-top: 40px;
    text-align: center;
    font-size: 13px;
